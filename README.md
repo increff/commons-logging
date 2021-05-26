@@ -63,3 +63,15 @@ To use `commons-logging`, include the following in the project's pom.xml
 |MaxFileSize|	no|	10000000 (10MB)|50000000 (50 MB)|Disk usage by current log file, before a new log file is created. This parameter may not behonored perfectly if logs generated per minute exceed this limit. **Value under 1MB will be ignored.**|
 |MaxDiskUsage|	no|	10000000000 (10 GB)|50000000000 (50 GB)|Disk usage by all log files, before oldest files are deleted.Value under 50MB will be ignored|
 
+## License
+Copyright (c) Increff
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
+in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License
+is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+or implied. See the License for the specific language governing permissions and limitations under
+the License.
