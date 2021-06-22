@@ -17,7 +17,7 @@
 
 	<groupId>com.increff.commons</groupId>
 	<artifactId>commons-logging</artifactId>
-	<version>1.7-SNAPSHOT</version>
+	<version>1.7</version>
 	<packaging>jar</packaging>
 
 	<name>commons-logging</name>
@@ -184,7 +184,7 @@
 		<connection>scm:git:git://github.com/increff/commons-logging.git</connection>
 		<developerConnection>scm:git:git@github.com:increff/commons-logging.git</developerConnection>
 		<url>https://github.com/increff/commons-logging</url>
-		<tag>increff-commons-logging-1.7</tag>
+		<tag>rel-commons-logging-1.7</tag>
 	</scm>
 
 	<licenses>
